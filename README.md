@@ -1,0 +1,2 @@
+# DesplockHubUniversal
+Meu script universal 
